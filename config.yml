@@ -1,0 +1,4 @@
+App:
+    Host: "localhost"
+    Port: "3000"
+    Urn: "api/path/to/external/api"
